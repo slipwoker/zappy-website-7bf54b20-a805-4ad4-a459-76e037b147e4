@@ -1,0 +1,53 @@
+# פלטפורמת מעבדות חשמל — Generative Engine Optimization Map
+
+> A חינוך וטכנולוגיה business.
+
+---
+
+## Pages
+
+### Home
+https://-7bf54b20.zappy5.app
+
+### Programs
+https://-7bf54b20.zappy5.app/programs
+
+### About
+https://-7bf54b20.zappy5.app/about
+
+### Contact
+https://-7bf54b20.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-7bf54b20.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-7bf54b20.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-7bf54b20.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פלטפורמת מעבדות חשמל
+פלטפורמת מעבדות חשמל is a business in the חינוך וטכנולוגיה industry.
+
+## Target Audience
+תלמידים בבית ספר של חיל האוויר
+
+## Industry
+חינוך וטכנולוגיה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-7bf54b20.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-7bf54b20.zappy5.app/robots.txt
